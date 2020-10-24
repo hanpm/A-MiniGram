@@ -1,0 +1,6 @@
+framework module Pods_MiniGram_MiniGramUITests {
+  umbrella header "Pods-MiniGram-MiniGramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
