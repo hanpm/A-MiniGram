@@ -8,6 +8,7 @@ target 'MiniGram' do
   # Pods for MiniGram
   pod 'Parse'
   pod 'AlamofireImage', '~> 4.1'
+  pod 'MessageInputBar'
 
   target 'MiniGramTests' do
     inherit! :search_paths
